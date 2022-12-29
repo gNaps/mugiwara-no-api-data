@@ -1,0 +1,389 @@
+[
+  {
+    "name": "Shells Town",
+    "chapters": [1, 2, 3, 4, 5, 6, 7],
+    "volumes": [1],
+    "episodes": [1, 2, 3],
+    "synopsis": "The Romance Dawn Arc is the first story arc of the manga and anime One Piece, and the first story arc of the East Blue Saga.
+    Seven-year-old Monkey D. Luffy befriends the Red Hair Pirates and swears to their captain, Shanks, that he will become a great Pirate. Ten years later, Luffy sets sail and confronts the brutish female pirate Alvida. He then travels to Shells Town, which is ruled over by the tyrannical Marine Captain Morgan.",
+  },
+  {
+    "name": "Orange Town",
+    "chapters": [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21],
+    "volumes": [2, 3],
+    "episodes": [4, 5, 6, 7, 8],
+    "synopsis": "As Luffy and Zoro aimlessly sail across the sea, they end up at Orange Town, an island under siege by clown-themed pirate Buggy and his crew.    "
+  },
+  {
+    "name": "Village Shirop",
+    "chapters": [
+      22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39,
+      40, 41
+    ],
+    "volumes": [3, 5],
+    "episodes": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18],
+    "synopsis": "Luffy, Zoro and Nami arrive at Syrup Village looking for a ship, where they meet Usopp, the local village liar. After they learn of a secret plot against Usopp's friend Kaya, they decide they have no choice but to help him defeat Captain Kuro in order to save her."
+  },
+  {
+    "name": "Baratie",
+    "chapters": [
+      42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59,
+      60, 61, 62, 63, 64, 65, 66, 67, 68
+    ],
+    "volumes": [5, 6, 7, 8],
+    "episodes": [19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30],
+    "synopsis": "The Straw Hat Pirates meet Johnny and Yosaku, old friends of Zoro, who direct them to the restaurant ship Baratie, a 'floating oasis' in the middle of the ocean. However, pirate admiral Don Krieg sets his sights on the Baratie as a replacement for his devastated fleet, and the restaurant soon comes under siege."
+  },
+  {
+    "name": "Arlong Park",
+    "chapters": [
+      69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86,
+      87, 88, 89, 90, 91, 92, 93, 94, 95
+    ],
+    "volumes": [8, 9, 10, 11],
+    "episodes": [31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44],
+    "synopsis": "The remaining Straw Hat Pirates, along with Johnny and Yosaku, are tracking Nami, who stole the Going Merry, to Cocoyasi Village, Nami's home village, ruled by the Arlong Pirates, a pirate crew of Fish-Men, lead by Arlong, and of which Nami is a member. When Nami's past and true motives come to light, the Straw Hats decide to free both her and the village from the Fish-Men's claws."
+  },
+  {
+    "name": "Logue Town",
+    "chapters": [96, 97, 98, 99, 100],
+    "volumes": [11, 12],
+    "episodes": [45, 48, 49, 50, 51, 52, 53],
+    "synopsis": "The Straw Hat Pirates stop at the city of Loguetown, where Gold Roger was born and executed, to get supplies before heading to the Grand Line. However, a powerful Marine captain, as well as some old enemies, stand in their way."
+  },
+  {
+    "name": "Twin Capes",
+    "chapters": [101, 102, 103, 104, 105],
+    "volumes": [12],
+    "episodes": [62, 63],
+    "synopsis": "The Straw Hat Pirates make their way to Reverse Mountain and begin the perilous task of scaling its tricky rapids in order to enter the Grand Line. As they descend the mountain, they come face to face with not only the giant whale Laboon, but also mysterious agents Mr. 9 and Miss Wednesday."
+  },
+  {
+    "name": "Whiskey Peak",
+    "chapters": [106, 107, 108, 109, 110, 111, 112, 113, 114],
+    "volumes": [12, 13],
+    "episodes": [64, 65, 66, 67],
+    "synopsis": "With a Log Pose now in hand, the Straw Hat Pirates are directed toward Whisky Peak, a town that welcomes pirates with open arms and treats them like celebrities. However, the townsfolk have a dark secret, and an even deeper mystery awaits."
+  },
+  {
+    "name": "Little Garden",
+    "chapters": [
+      115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129
+    ],
+    "volumes": [13, 14, 15],
+    "episodes": [70, 71, 72, 73, 74, 75, 76, 77],
+    "synopsis": "Now with Vivi in tow, the Straw Hat Pirates travel to the prehistoric island of Little Garden. There, they encounter two Giants, Dorry and Brogy, who have been dueling one another on the island for the past century. After befriending the giants, the crew are ambushed by new and familiar officers of Baroque Works."
+  },
+  {
+    "name": "Drum",
+    "chapters": [
+      130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144,
+      145, 146, 147, 148, 149, 150, 151, 152, 153, 154
+    ],
+    "volumes": [15, 16, 17],
+    "episodes": [78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91],
+    "synopsis": "After Nami falls ill with an unknown disease, the Straw Hat Pirates travel to Drum Island in search of a doctor. The crew meet a bizarre talking reindeer named Tony Tony Chopper, who helps them fend off the country's former despot king Wapol after he returns to reclaim his throne."
+  },
+  {
+    "name": "Alabasta",
+    "chapters": [
+      155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169,
+      170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184,
+      185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199,
+      200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214,
+      215, 216, 217
+    ],
+    "volumes": [17, 18, 19, 20, 21, 22, 23, 24],
+    "episodes": [
+      92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107,
+      108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122,
+      123, 124, 125, 126, 127, 128, 129, 130
+    ],
+    "synopsis": "The Straw Hats finally reach the desert kingdom of Arabasta and begin their race across the land to reach Alubarna before a massive war can break out between the kingdom's royal guards and the rebels. However, the true perpetrator of the war, Mr. 0 and the remaining Baroque Works officer agents stand in the way of reaching their goal."
+  },
+  {
+    "name": "Jaya/Mock Town",
+    "chapters": [
+      218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232,
+      233, 234, 235, 236
+    ],
+    "volumes": [24, 25],
+    "episodes": [144, 145, 146, 147, 148, 149, 150, 151, 152],
+    "synopsis": "After the Straw Hat Pirates' Log Pose points them towards the sky, they travel to the island of Jaya to determine if there is indeed an island in the sky. While in the pirate-populated port town of Mock Town, Luffy ends up in conflict with the overconfident and cruel Bellamy, while also meeting an enigmatic man who advises Luffy to never give up on his dreams."
+  },
+  {
+    "name": "Skypiea",
+    "chapters": [
+      237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251,
+      252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266,
+      267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281,
+      282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296,
+      297, 298, 299, 300, 301, 302
+    ],
+    "volumes": [26, 27, 28, 29, 30, 31, 32],
+    "episodes": [
+      153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167,
+      168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182,
+      183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195
+    ],
+    "synopsis": "The Straw Hats arrive on the Sky Island Skypiea and learn of its connections to Jaya and Mont Blanc Noland's tale of a lost city of gold. As the crew embarks in search of treasure, they become entangled in a three-way war between the native Skypieans, the vengeful Shandians, and the land's cruel 'god', Enel."
+  },
+  {
+    "name": "Longring Longland",
+    "chapters": [
+      303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317,
+      318, 319, 320, 321
+    ],
+    "volumes": [32, 33, 34],
+    "episodes": [
+      207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219
+    ],
+    "synopsis": "Upon arriving on Long Ring Long Land, the Straw Hat Pirates are ambushed by the Foxy Pirates and challenged to a 'Davy Back Fight', with the Straw Hat crew's members at stake."
+  },
+  {
+    "name": "Water Seven",
+    "chapters": [
+      322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336,
+      337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351,
+      352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366,
+      367, 368, 369, 370, 371, 372, 373, 374
+    ],
+    "volumes": [34, 35, 36, 37, 38, 39],
+    "episodes": [
+      229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243,
+      244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258,
+      259, 260, 261, 262, 263
+    ],
+    "synopsis": "The Straw Hats arrive at the oceanic metropolis of Water 7 to find a shipwright who can repair the Going Merry, as well as potentially join their crew. They soon become targeted by the Franky Family, the city's underground gang, and are getting involved into a plot within the Galley-La Company. Between the disappearance of Robin and a schism that develops between Luffy and Usopp, the crew begins to fall apart."
+  },
+  {
+    "name": "Enies Lobby",
+    "chapters": [
+      375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389,
+      390, 391, 392, 393, 394, 395, 396, 397, 398, 399, 400, 401, 402, 403, 404,
+      405, 406, 407, 408, 409, 410, 411, 412, 413, 414, 415, 416, 417, 418, 419,
+      420, 421, 422, 423, 424, 425, 426, 427, 428, 429, 430
+    ],
+    "volumes": [39, 40, 41, 42, 43, 44],
+    "episodes": [
+      264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278,
+      279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290
+    ],
+    "synopsis": "The Straw Hats, Sogeking, the Franky Family, and the shipwrights of the Galley-La Company arrive at Enies Lobby aboard the Rocketman to rescue Nico Robin and Franky. Standing in their way, however, are the forces of the World Government, including its deadly assassin organization, CP9. A massive battle ensues between the two sides when Luffy declares war against the World Government."
+  },
+  {
+    "name": "Water Seven (Post Enies Lobby)",
+    "chapters": [431, 432, 433, 434, 435, 436, 437, 438, 439, 440, 441],
+    "volumes": [45, 46],
+    "episodes": [
+      313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325
+    ],
+    "synopsis": "As the Straw Hat Pirates rest at Water 7 after successfully escaping from Enies Lobby, they are visited by a group of Marines that includes familiar faces to Luffy. Franky promises to build the crew a new ship. A few days before these events, Ace finally catches up to Blackbeard on Banaro Island."
+  },
+  {
+    "name": "Thriller Bark",
+    "chapters": [
+      442, 443, 444, 445, 446, 447, 448, 449, 450, 451, 452, 453, 454, 455, 456,
+      457, 458, 459, 460, 461, 462, 463, 464, 465, 466, 467, 468, 469, 470, 471,
+      472, 473, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483, 484, 485, 486,
+      487, 488, 489
+    ],
+    "volumes": [46, 47, 48, 49, 50],
+    "episodes": [
+      337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351,
+      352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366,
+      367, 368, 369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381
+    ],
+    "synopsis": "The Straw Hat Pirates travel to the ghost island of Thriller Bark, where they encounter the Warlord Gecko Moria. Using his Devil Fruit abilities, Moria steals the Straw Hats' shadows. With the help of a mysterious talking skeleton named Brook, the crew must regain their shadows before sunrise in order to survive."
+  },
+  {
+    "name": "Sabaody",
+    "chapters": [
+      490, 491, 492, 493, 494, 495, 496, 497, 498, 499, 500, 501, 502, 503, 504,
+      505, 506, 507, 508, 509, 510, 511, 512, 513
+    ],
+    "volumes": [50, 51, 52, 53],
+    "episodes": [
+      385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398, 399,
+      400, 401, 402, 403, 404, 405
+    ],
+    "synopsis": "The Straw Hat Pirates arrive at the final island of the Grand Line's first half, Sabaody Archipelago. While searching for a means to pass under the Red Line into the New World, they come into conflict with a deadly slave trading ring that sells to the World Nobles. Luffy and Zoro are labelled as two of the Eleven Supernovas, rookies of significant bounties to have simultaneously arrived at the archipelago. A chain reaction of events engulfs the archipelago in chaos, and the Straw Hats are faced with their greatest challenge yet."
+  },
+  {
+    "name": "Amazon Lily",
+    "chapters": [514, 515, 516, 517, 518, 519, 520, 521, 522, 523, 524],
+    "volumes": [53, 54],
+    "episodes": [408, 409, 410, 411, 412, 413, 414, 415, 416, 417],
+    "synopsis": "After his defeat at the hands of Kuma at the Sabaody Archipelago, Luffy is sent flying and crash lands on Amazon Lily, an island exclusive to women that executes males on sight."
+  },
+  {
+    "name": "Impel Down",
+    "chapters": [
+      525, 526, 527, 528, 529, 530, 531, 532, 533, 534, 535, 536, 537, 538, 539,
+      540, 541, 542, 543, 544, 545, 546, 547, 548, 549
+    ],
+    "volumes": [54, 55, 56],
+    "episodes": [
+      422, 423, 424, 425, 430, 431, 432, 433, 434, 435, 436, 437, 438, 439, 440,
+      441, 442, 443, 444, 445, 446, 447, 448, 449, 450, 451, 452
+    ],
+    "synopsis": "Luffy puts finding his crew on hold in favor of rescuing his brother Ace from the underwater prison Impel Down. With some assistance from Boa Hancock, he manages to infiltrate the facility. However, fulfilling his objective and escaping the hellish prison might be easier said than done."
+  },
+  {
+    "name": "Marineford",
+    "chapters": [
+      550, 551, 552, 553, 554, 555, 556, 557, 558, 559, 560, 561, 562, 563, 564,
+      565, 566, 567, 568, 569, 570, 571, 572, 573, 574, 575, 576, 577, 578, 579,
+      580, 581, 582, 583, 584, 585, 586, 587, 588, 589, 590, 591, 592, 593, 594,
+      595, 596, 597
+    ],
+    "volumes": [56, 57, 58, 59, 60, 61],
+    "episodes": [
+      457, 458, 459, 460, 461, 462, 463, 464, 465, 466, 467, 468, 469, 470, 471,
+      472, 473, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483, 484, 485, 486,
+      487, 488, 489, 490, 491, 493, 494, 495, 496, 497, 498, 499, 500, 501, 502,
+      503, 504, 505, 506, 507, 508, 509, 510, 511, 512, 513, 514, 515, 516
+    ],
+    "synopsis": "Having failed to reach Ace before he was transferred, Luffy and his companions are escaping from Impel Down and travel to Marineford, the base of Marine Headquarters. With the odds stacked high against him, the imminent threat of Whitebeard, and the ulterior motives of pirates that wish to overthrow the Emperor, Luffy struggles to hold his own in this titanic clash of powers."
+  },
+  {
+    "name": "Fish-man Island",
+    "chapters": [
+      598, 599, 600, 601, 602, 603, 604, 605, 606, 607, 608, 609, 610, 611, 612,
+      613, 614, 615, 616, 617, 618, 619, 620, 621, 622, 623, 624, 625, 626, 627,
+      628, 629, 630, 631, 632, 633, 634, 635, 636, 637, 638, 639, 640, 641, 642,
+      643, 644, 645, 646, 647, 648, 649, 650, 651, 652, 653
+    ],
+    "volumes": [61, 62, 63, 64, 65, 66],
+    "episodes": [
+      517, 518, 519, 520, 521, 522, 523, 524, 525, 526, 527, 528, 529, 530, 531,
+      532, 533, 534, 535, 536, 537, 538, 539, 540, 541, 543, 544, 545, 546, 547,
+      548, 549, 550, 551, 552, 553, 554, 555, 556, 557, 558, 559, 560, 561, 562,
+      563, 564, 565, 566, 567, 568, 569, 570, 571, 572, 573, 574
+    ],
+    "synopsis": "The Straw Hat Pirates finally arrive at Fish-Man Island. There, the New Fish-Man Pirates are plotting to overtake Ryugu Kingdom and make Fish-Men be recognized as the supreme race. In addition, the backstory of Fisher Tiger is revealed."
+  },
+  {
+    "name": "Punk Hazard",
+    "chapters": [
+      654, 655, 656, 657, 658, 659, 660, 661, 662, 663, 664, 665, 666, 667, 668,
+      669, 670, 671, 672, 673, 674, 675, 676, 677, 678, 679, 680, 681, 682, 683,
+      684, 685, 686, 687, 688, 689, 690, 691, 692, 693, 694, 695, 696, 697, 698,
+      699
+    ],
+    "volumes": [66, 67, 68, 69, 70],
+    "episodes": [
+      579, 580, 581, 582, 583, 584, 585, 586, 587, 588, 589, 591, 592, 593, 594,
+      595, 596, 597, 598, 599, 600, 601, 602, 603, 604, 605, 606, 607, 608, 609,
+      610, 611, 612, 613, 614, 615, 616, 617, 618, 619, 620, 621, 622, 623, 624,
+      625
+    ],
+    "synopsis": "Upon finally entering the New World, the Straw Hat Pirates immediately receive a distress call from a group of people on the island Punk Hazard, who state that a samurai is attacking them. Without hesitation, Luffy sets out to the blazing island, with Vice Admiral Smoker hot on his tail. On the supposedly death-ridden and empty island, the Straw Hats soon learn that they are not alone, encountering the crazy scientist Caesar Clown who keeps working on his dangerous experiments, as they explore the island's purpose."
+  },
+  {
+    "name": "Dressrosa",
+    "chapters": [
+      700, 701, 702, 703, 704, 705, 706, 707, 708, 709, 710, 711, 712, 713, 714,
+      715, 716, 717, 718, 719, 720, 721, 722, 723, 724, 725, 726, 727, 728, 729,
+      730, 731, 732, 733, 734, 735, 736, 737, 738, 739, 740, 741, 742, 743, 744,
+      745, 746, 747, 748, 749, 750, 751, 752, 753, 754, 755, 756, 757, 758, 759,
+      760, 761, 762, 763, 764, 765, 766, 767, 768, 769, 770, 771, 772, 773, 774,
+      775, 776, 777, 778, 779, 780, 781, 782, 783, 784, 785, 786, 787, 788, 789,
+      790, 791, 792, 793, 794, 795, 796, 797, 798, 799, 800, 801
+    ],
+    "volumes": [70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80],
+    "episodes": [
+      629, 630, 631, 632, 633, 634, 635, 636, 637, 638, 639, 640, 641, 642, 643,
+      644, 645, 646, 647, 648, 649, 650, 651, 652, 653, 654, 655, 656, 657, 658,
+      659, 660, 661, 662, 663, 664, 665, 666, 667, 668, 669, 670, 671, 672, 673,
+      674, 675, 676, 677, 678, 679, 680, 681, 682, 683, 684, 685, 686, 687, 688,
+      689, 690, 691, 692, 693, 694, 695, 696, 697, 698, 699, 700, 701, 702, 703,
+      704, 705, 706, 707, 708, 709, 710, 711, 712, 713, 714, 715, 716, 717, 718,
+      719, 720, 721, 722, 723, 724, 725, 726, 727, 728, 729, 730, 731, 732, 733,
+      734, 735, 736, 737, 738, 739, 740, 741, 742, 743, 744, 745, 746
+    ],
+    "synopsis": "The Straw Hat Pirates and Trafalgar Law, together with Kin'emon, Momonosuke and the captured Caesar Clown, travel to Dressrosa. They aim to take down the nation's king, Warlord of the Sea Donquixote Doflamingo. However, they soon set into motion a series of world-changing events, as their actions interact unexpectedly with those of larger forces at play."
+  },
+  {
+    "name": "Zou",
+    "chapters": [
+      802, 803, 804, 805, 806, 807, 808, 809, 810, 811, 812, 813, 814, 815, 816,
+      817, 818, 819, 820, 821, 822, 823, 824
+    ],
+    "volumes": [80, 81, 82],
+    "episodes": [
+      751, 752, 753, 754, 755, 756, 757, 758, 759, 760, 761, 762, 763, 764, 765,
+      766, 767, 768, 769, 770, 771, 772, 773, 774, 775, 776, 777, 778, 779, 780,
+      781, 782
+    ],
+    "synopsis": "After defeating Doflamingo, the Straw Hats, Trafalgar Law, Kin'emon, and Kanjuro arrive on Zou, in order to reunite with Sanji and the others. However, they discover that Sanji has been swept up in a set of personal and political entanglements and that Zou has been subjected to a siege by Jack of the Beasts Pirates. As the dust settles, the Straw Hats learn more startling revelations involving the location of their ultimate goal: the One Piece."
+  },
+  {
+    "name": "Whole Cake Island",
+    "chapters": [
+      825, 826, 827, 828, 829, 830, 831, 832, 833, 834, 835, 836, 837, 838, 839,
+      840, 841, 842, 843, 844, 845, 846, 847, 848, 849, 850, 851, 852, 853, 854,
+      855, 856, 857, 858, 859, 860, 861, 862, 863, 864, 865, 866, 867, 868, 869,
+      870, 871, 872, 873, 874, 875, 876, 877, 878, 879, 880, 881, 882, 883, 884,
+      885, 886, 887, 888, 889, 890, 891, 892, 893, 894, 895, 896, 897, 898, 899,
+      900, 901, 902
+    ],
+    "volumes": [82, 83, 84, 85, 86, 87, 88, 89, 90],
+    "episodes": [
+      783, 784, 785, 786, 787, 788, 789, 790, 791, 792, 793, 794, 795, 796, 797,
+      798, 799, 800, 801, 802, 803, 804, 805, 806, 807, 808, 809, 810, 811, 812,
+      813, 814, 815, 816, 817, 818, 819, 820, 821, 822, 823, 824, 825, 826, 827,
+      828, 829, 830, 831, 832, 833, 834, 835, 836, 837, 838, 839, 840, 841, 842,
+      843, 844, 845, 846, 847, 848, 849, 850, 851, 852, 853, 854, 855, 856, 857,
+      858, 859, 860, 861, 862, 863, 864, 865, 866, 867, 868, 869, 870, 871, 872,
+      873, 874, 875, 876, 877
+    ],
+    "synopsis": "Luffy, Nami, Chopper, Brook, and the minks Pekoms, Pedro, and Carrot head to Whole Cake Island, where Big Mom of the Four Emperors resides. Nicknamed the Sanji Retrieval Team, the group seeks to rescue their crew mate Sanji from his arranged marriage with Charlotte Pudding, set up to finalize a political alliance between the Charlotte Family and the Vinsmoke Family. However, during their operation, they become involved in a plot to assassinate Big Mom herself."
+  },
+  {
+    "name": "Reverie",
+    "chapters": [903, 904, 905, 906, 907, 908],
+    "volumes": [90],
+    "episodes": [878, 889],
+    "synopsis": "After the Straw Hat Pirates' actions against the Big Mom Pirates are revealed to the world, royalty across the globe gathers for the Levely. Meanwhile, the Revolutionary Army prepares for their next move."
+  },
+  {
+    "name": "Wano",
+    "chapters": [
+      909, 910, 911, 912, 913, 914, 915, 916, 917, 918, 919, 920, 921, 922, 923,
+      924, 925, 926, 927, 928, 929, 930, 931, 932, 933, 934, 935, 936, 937, 938,
+      939, 940, 941, 942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952, 953,
+      954, 955, 956, 957, 958, 959, 960, 961, 962, 963, 964, 965, 966, 967, 968,
+      969, 970, 971, 972, 973, 974, 975, 976, 977, 978, 979, 980, 981, 982, 983,
+      984, 985, 986, 987, 988, 989, 990, 991, 992, 993, 994, 995, 996, 997, 998,
+      999, 1000, 1001, 1002, 1003, 1004, 1005, 1006, 1007, 1008, 1009, 1010,
+      1011, 1012, 1013, 1014, 1015, 1016, 1017, 1018, 1019, 1020, 1021, 1022,
+      1023, 1024, 1025, 1026, 1027, 1028, 1029, 1030, 1031, 1032, 1033, 1034,
+      1035, 1036, 1037, 1038, 1039, 1040, 1041, 1042, 1043, 1044, 1045, 1046,
+      1047, 1048, 1049, 1050, 1051, 1052, 1053, 1054, 1055, 1056, 1057
+    ],
+    "volumes": [
+      90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105
+    ],
+    "episodes": [
+      890, 891, 892, 893, 894, 897, 898, 899, 900, 901, 902, 903, 904, 905, 906,
+      908, 909, 910, 911, 912, 913, 914, 915, 916, 917, 918, 919, 920, 921, 922,
+      923, 924, 925, 926, 927, 928, 929, 930, 931, 932, 933, 934, 935, 936, 937,
+      938, 939, 940, 941, 942, 943, 944, 945, 946, 947, 948, 949, 950, 951, 952,
+      953, 954, 955, 956, 957, 958, 959, 960, 961, 962, 963, 964, 965, 966, 967,
+      968, 969, 970, 971, 972, 973, 974, 975, 976, 977, 978, 979, 980, 981, 982,
+      983, 984, 985, 986, 987, 988, 989, 990, 991, 992, 993, 994, 995, 996, 997,
+      998, 999, 1000, 1001, 1002, 1003, 1004, 1005, 1006, 1007, 1008, 1009,
+      1010, 1011, 1012, 1013, 1014, 1015, 1016, 1017, 1018, 1019, 1020, 1021,
+      1022, 1023, 1024, 1025, 1026, 1027, 1028, 1031
+    ],
+    "synopsis": "The Ninja-Pirate-Mink-Samurai Alliance gather in Wano Country and prepare for the battle against the Beasts Pirates. The history of Kozuki Oden and his ties to Wano Country, Whitebeard and Gol D. Roger are revealed, and the Alliance assaults Onigashima to take down the allied forces of Kaidou and Big Mom, with alliances shifting on all sides of the battle. Meanwhile, after the events during the recent Levely, the world goes through dramatic changes."
+  },
+  {
+    "name": "Egghead",
+    "chapters": [],
+    "volumes": [],
+    "episodes": [],
+    "synopsis": "As the world recovers from the aftermath of the Levely, the Raid on Onigashima, and the destruction of Lulusia, the Straw Hat Pirates, following their Log Pose, arrive at the mysterious, futuristic island Egghead where the Marine super genius Dr. Vegapunk resides. Meanwhile, the World Government has decided to assassinate Vegapunk, sending a CP0 team that includes two agents the Straw Hats have dealt with before."
+  }
+]
