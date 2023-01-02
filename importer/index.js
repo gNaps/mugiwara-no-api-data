@@ -1,4 +1,5 @@
 const mongoose = require("mongoose");
+require("dotenv").config();
 const volumes = require("../data/volumes.json");
 const chapters = require("../data/chapters.json");
 const episodes = require("../data/episodes.json");
@@ -10,12 +11,9 @@ const { Saga } = require("./Saga");
 
 (async () => {
   console.log("Start migration");
-  mongoose.connect(
-    "mongodb+srv://napsryu:Gabrielemats1996!@cluster0.cdmmoqv.mongodb.net/?retryWrites=true&w=majority",
-    {
-      dbName: "mugiwara_no_api",
-    }
-  );
+  mongoose.connect(process.env.MONGO_URI, {
+    dbName: process.env.MONGO_DB,
+  });
 
   // VOLUMES
 
